@@ -1,7 +1,14 @@
 .under-c{
-    padding: 6vw 0vw;
-    background-color: #544889;
+    padding: 4vw 0vw;
+    background-color: #544889; color: aliceblue;
     width: 100%;
-    height: 20vw;
+    height: auto;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; align-items: center;
+}
+
+.apply-button{
+    height: 44px; width: 312px
 }
