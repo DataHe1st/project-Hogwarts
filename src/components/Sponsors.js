@@ -1,9 +1,9 @@
 import React from 'react';
 import './styles/sponsors.styles.css';
 import devf from '../images/devf.png';
-import filec from '../images/filecon.jpg';
+import filec from '../images/filecon.png';
 import polyg from '../images/polyg.png';
-import replit from '../images/replit.jpg';
+import replit from '../images/replit.png';
 import solana from '../images/solana.png';
 
 export const Sponsors = () => {
