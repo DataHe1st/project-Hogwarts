@@ -9,11 +9,11 @@ import solana from '../images/solana.png';
 export const Sponsors = () => {
   return (
     <div className='sponsor-cont'>
-        <div className='spon'><img alt='sponsor' src={devf} /></div>
-        <div className='spon'><img alt='sponsor' src={filec} /></div>
-        <div className='spon'><img alt='sponsor' src={polyg} /></div>
-        <div className='spon'><img alt='sponsor' src={replit} /></div>
-        <div className='spon'><img alt='sponsor' src={solana} /></div>
+        <div className='spon'><img alt='DEVFOLIO LOGO' src={devf} /></div>
+        <div className='spon'><img alt='FILECOIN LOGO' src={filec} /></div>
+        <div className='spon'><img alt='POLYGON LOGO' src={polyg} /></div>
+        <div className='spon'><img alt='REPLIT LOGO' src={replit} /></div>
+        <div className='spon'><img alt='SOLANA LOGO' src={solana} /></div>
     </div>
   )
 }
