@@ -16,7 +16,7 @@ export const UnderC = () => {
 }, []);
 
   return (
-    <section className='under-c'>Under Construction
+    <section className='under-c'>Under Construction ...
     
     <h1>Data Heist</h1>
 
